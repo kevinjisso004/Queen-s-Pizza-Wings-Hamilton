@@ -1,0 +1,98 @@
+name: Update Menu Daily Queens Pizza Wings Hamilton
+
+env:
+  ORDERING_LINK: https://orders.iorders.online/queens-pizza-wings-hamilton-5873
+  # STORE_NAME is derived from ORDERING_LINK (removes https://orders.iorders.online/)
+
+on:
+  schedule:
+    # Run daily at 06:00 UTC (approx. 1-2 AM Hamilton, ON / Eastern Time,
+    # depending on daylight saving)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-menu:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Get tomorrow's date
+        id: date
+        run: |
+          TOMORROW=$(date -d "tomorrow" +%Y-%m-%d)
+          echo "tomorrow=${TOMORROW}" >> $GITHUB_OUTPUT
+      
+      - name: Fetch menu data
+        id: fetch_menu
+        run: |
+          STORE_NAME=$(echo "${{ env.ORDERING_LINK }}" | sed 's|https://orders.iorders.online/||')
+          URL="https://api.iorders.online/store/menu/?name=${STORE_NAME}&day=${{ steps.date.outputs.tomorrow }}+13:00:00&order_mode=1"
+          echo "Fetching from: $URL"
+
+          # Fetch the data and save to temp file
+          curl -s "$URL" > temp_menu.json
+
+          # Check if the response is successful
+          STATUS=$(cat temp_menu.json | jq -r '.status')
+          if [ "$STATUS" = "success" ]; then
+            # Check if data array is not empty
+            DATA_LENGTH=$(cat temp_menu.json | jq '.data | length')
+            if [ "$DATA_LENGTH" -gt 0 ]; then
+              echo "status=success" >> $GITHUB_OUTPUT
+              # Extract just the data array
+              jq '.data' temp_menu.json > new_menu_data.json
+              echo "Menu data found: $DATA_LENGTH items"
+            else
+              echo "status=closed" >> $GITHUB_OUTPUT
+              echo "Store appears to be closed - no menu data available"
+            fi
+          else
+            echo "status=failed" >> $GITHUB_OUTPUT
+            echo "API response was not successful. Status: $STATUS"
+            cat temp_menu.json
+            exit 1
+          fi
+      
+      - name: Update menu.js
+        if: steps.fetch_menu.outputs.status == 'success'
+        run: |
+          node update-menu.js
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet menu.js; then
+            echo "No changes detected in menu.js"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected in menu.js"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          # Add the updated menu.js
+          git add menu.js
+
+          # Commit with timestamp
+          git commit -m "Auto-update menu data for ${{ steps.date.outputs.tomorrow }}"
+
+          # Push changes
+          git push

@@ -1,0 +1,26 @@
+/* ============================================================
+   THEME: Queen's Pizza & Wings — Hamilton, ON
+   Palette sampled from the restaurant's own brand mark
+   (QP_Logo_: dark-red pizza-slice roundel + gold "Queens"
+   + red "Pizza" + black "HAMILTON").
+
+   Re-skin the entire site by editing these five variables.
+   Every shade, tint, border, and glow is derived from them
+   automatically in style.css.
+   DO NOT add layout, grid, flexbox, or spacing here.
+
+   Contrast (WCAG, vs #ffffff):
+     --brand    #b00000   7.38:1  OK  white-text buttons/links
+     --brand-2  #3c0808  17.07:1  OK  dark bands, footer
+     --brand-3  #f8ac00   1.93:1  --  decorative only (stars,
+                                     badges, rules on dark bands)
+     --ink      #1e1a19  17.26:1  OK  body text
+   ============================================================ */
+
+:root {
+  --brand:   #b00000;   /* 1 - primary   - buttons, links, accents   (logo red)    */
+  --brand-2: #3c0808;   /* 2 - secondary - dark bands, footer        (deep maroon) */
+  --brand-3: #f8ac00;   /* 3 - highlight - stars, badges, small hits (logo gold)   */
+  --canvas:  #fcf6ec;   /* 4 - warm section background                             */
+  --ink:     #1e1a19;   /* 5 - text                                                */
+}

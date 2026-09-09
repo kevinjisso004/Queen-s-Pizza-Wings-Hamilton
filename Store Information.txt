@@ -1,0 +1,214 @@
+Restaurant Name:  
+**Queen's Pizza & Wings**
+
+Address:  
+**178 Queen St S, Hamilton, ON L8P 3S7, Canada**
+
+Phone Number:  
+**9055770900**
+
+Website Link:  
+[http://www.queenspizzaandwings.ca/](http://www.queenspizzaandwings.ca/)
+
+Online Order Link:  
+[https://orders.iorders.online/queens-pizza-wings-hamilton-5873](https://orders.iorders.online/queens-pizza-wings-hamilton-5873)
+
+Operating Hours:  
+- Monday: 11:00 AM – 3:00 AM
+- Tuesday: 11:00 AM – 3:00 AM
+- Wednesday: 11:00 AM – 3:00 AM
+- Thursday: 11:00 AM – 3:00 AM
+- Friday: 11:00 AM – 3:00 AM
+- Saturday: 11:00 AM – 3:00 AM
+- Sunday: 11:00 AM – 3:00 AM
+
+Google Business Profile link:  
+**https://share.google/vT9auZ8ZCeqdmSCwm**
+
+Facebook Profile Link:  
+_(not provided)_
+
+Instagram Link:  
+_(not provided)_
+
+Geo Code:  
+**43.25408973743666, -79.88141236626647**
+
+Google Maps link:  
+**https://maps.app.goo.gl/cLBsfZHdy47VrNB86**
+
+Maps Iframe:  
+```html
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2905.8816470902498!2d-79.88133189999999!3d43.2539022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882c9b70df35f63d%3A0x5260805991e9564!2sQueen's%20Pizza%20%26%20Wings!5e0!3m2!1sen!2sca!4v1788912135392!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+```
+
+Cuisine of the restaurant:  
+Pizza & Wings
+
+Service Options:  
+- Takeout
+- Delivery
+- Dine-in
+- Catering
+- Late-night service
+- Pickup specials
+
+---
+
+### General Description of the Restaurant
+
+Queen's Pizza & Wings is a Hamilton-based, locally run pizza and wings restaurant with a strong late-night, pickup, and delivery focus. The Queen Street South location serves classic comfort-food favourites, including pizza, wings, panzerotti, pasta, and sides, with a menu built around value-priced specials and customizable topping combinations. The restaurant operates multiple Hamilton-area locations, and its Queen Street South site is positioned for convenient takeout and delivery in the downtown core and nearby neighbourhoods.
+
+---
+
+### Owner & Story
+
+Publicly available sources describe Queen's Pizza & Wings as locally run, but I did not find a verified owner name or a formal ownership story on the restaurant website or profile. The business appears to have grown into a small Hamilton group with multiple locations, centered on affordable pizza, wings, and late-night service.
+
+---
+
+### Reviews – Top Rated
+
+1. **Noah** (5/5)
+   I love Queens, great pizza, awesome wings and locally run. Always hits the spot!
+
+2. **Karen K.** (5/5)
+   Everything was very tasty and delicious. The gluten-free is one of the best I have had thank you! I will order again.
+
+3. **Anonymous Google reviewer** (5/5)
+   It’s my go to pizza!!! The pizza sauce is the best. And the dipping sauce is so good.
+
+4. **Anonymous reviewer** (5/5)
+   Great price and pizza and amazing sauce.
+
+5. **Anonymous reviewer** (5/5)
+   Great food and delivered with care!
+
+---
+
+### Popular Dishes
+
+(Verified against the live iOrders menu in menu.js - Phase 2, 2026-09-09.
+Pasta and Chicken Parmesan are NOT on the menu and were removed.)
+
+1. Pepperoni Pizza
+2. Chicken Wings
+3. Pizza & Wings Combo
+4. Panzerotti
+5. Garlic Bread
+6. Mozzarella Sticks
+7. Poutine
+8. Chicken Shawarma
+9. Caesar Salad
+10. Chicken Strips
+
+---
+
+## NEARBY PRIORITY SERVICE AREAS
+Downtown Hamilton, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Downtown Hamilton
+Corktown, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Corktown
+Stinson, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Stinson
+Durand, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Durand
+St. Clair, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for St. Clair
+South Cannon, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for South Cannon
+Beasley, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Beasley
+Strathcona, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Strathcona
+Central Hamilton, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Central Hamilton
+Gibson, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Gibson
+
+## SECONDARY SERVICE AREAS
+Westdale, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Westdale
+Ainslie Wood, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Ainslie Wood
+McMaster University, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for McMaster University
+Kirkendall North, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Kirkendall North
+Kirkendall South, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Kirkendall South
+Century Heights, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Century Heights
+Industrial Sector A, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Industrial Sector A
+Industrial Sector B, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Industrial Sector B
+Sherman, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Sherman
+Delta East, Hamilton, Ontario - pizza and wings near me, delivery, takeout, dine-in, catering for Delta East
+
+## TARGETED LOCAL SEO KEYWORDS
+
+### 1. PRIMARY LOCATION + CUISINE KEYWORDS
+- Queen Street South pizza Hamilton
+- Hamilton pizza and wings
+- pizza near Queen Street South Hamilton
+- wings near Queen Street South Hamilton
+- Hamilton late night pizza
+- Hamilton takeout pizza and wings
+- Hamilton delivery pizza and wings
+- Queen Street Hamilton pizza shop
+- downtown Hamilton pizza and wings
+- Hamilton comfort food pizza
+
+### 2. LONG-TAIL KEYWORDS
+- best pizza and wings in Hamilton Ontario
+- affordable pizza and wings near downtown Hamilton
+- late night pizza delivery in Hamilton
+- family pizza takeout near Queen Street South
+- Hamilton pizza shop with wings and panzerotti
+- locally owned pizza and wings in Hamilton
+- fast pizza pickup in downtown Hamilton
+- pizza restaurant near Hamilton core
+- Hamilton pizza place open late
+- pizza and wings for group orders in Hamilton
+- fresh made pizza and wings Hamilton Ontario
+- Hamilton pizza delivery near me
+
+### 3. DISH-SPECIFIC KEYWORDS
+- classic pepperoni pizza Hamilton
+- chicken wings Hamilton Ontario
+- garlic bread Hamilton pizza shop
+- panzerotti Hamilton
+- pasta takeout Hamilton
+- cheese pizza Hamilton Ontario
+- jumbo wings Hamilton
+
+### 4. SERVICE-FOCUSED KEYWORDS
+- pizza pickup Hamilton
+- wings delivery Hamilton
+- takeout pizza near me
+- dine-in pizza Hamilton
+- catering pizza and wings Hamilton
+- late night takeout Hamilton
+- fast food delivery Hamilton
+- group order pizza Hamilton
+
+### 5. EXPERIENCE/OCCASION KEYWORDS
+- game night pizza and wings Hamilton
+- movie night takeout Hamilton
+- weekend late night food Hamilton
+- office lunch pizza Hamilton
+- student pizza deals Hamilton
+- family dinner pizza and wings Hamilton
+- party trays Hamilton pizza
+- shareable wings and pizza Hamilton
+- quick dinner downtown Hamilton
+
+### 6. COMPETITIVE POSITIONING KEYWORDS
+- locally run pizza and wings Hamilton
+- best value pizza in Hamilton
+- affordable late night wings Hamilton
+- Hamilton pizza with great sauce
+- top rated wings in Hamilton
+- neighbourhood pizza shop Hamilton
+
+### 7. VOICE SEARCH & MOBILE KEYWORDS
+- pizza and wings near me now
+- where can I get wings near me
+- open late pizza near me
+- best pizza near downtown Hamilton
+- takeout near Queen Street South
+- delivery pizza near me open now
+- closest wing restaurant near me
+- Hamilton pizza open now
+
+### 8. KEYWORD IMPLEMENTATION GUIDE
+- Home page: primary location + cuisine keywords, competitive positioning keywords, voice search keywords
+- Menu pages: dish-specific keywords, long-tail keywords
+- Service pages: service-focused keywords, experience/occasion keywords
+- Location pages: nearby neighbourhood terms and long-tail local intent keywords
+- Footer and internal links: location keywords, open late and delivery terms
+- Meta titles and descriptions: combine location + cuisine + service intent keywords
+- FAQ section: voice search keywords and common order-intent phrases

@@ -1,0 +1,133 @@
+/* ============================================================
+   CUSTOM — Per-store overrides for Template TF
+   Add store-specific tweaks here. Loaded last so it wins
+   over theme.css and style.css.
+   ============================================================ */
+
+/* ---------- "Visit Us" map + contact box (tags/takeout pages) ---------- */
+
+.map-visit-box {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr;
+  gap: 0;
+  margin-top: 2rem;
+  background: var(--card);
+  border-radius: var(--r-xl);
+  box-shadow: var(--shadow-lg);
+  overflow: hidden;
+}
+
+.map-visit-map {
+  position: relative;
+  min-height: 380px;
+}
+
+.map-visit-map iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.map-visit-info {
+  display: flex;
+  flex-direction: column;
+  padding: clamp(1.5rem, 4vw, 2.5rem);
+}
+
+.map-visit-info h3 {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.35rem;
+  margin-bottom: 1.25rem;
+}
+
+.map-visit-detail {
+  margin-bottom: 1.1rem;
+}
+
+.map-visit-detail h4 {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 0.3rem;
+}
+
+.map-visit-detail p {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.map-visit-detail p a {
+  color: var(--ink);
+}
+
+.map-visit-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.75rem;
+  margin-top: auto;
+  padding-top: 1.25rem;
+}
+
+@media (max-width: 800px) {
+  .map-visit-box {
+    grid-template-columns: 1fr;
+  }
+
+  .map-visit-map {
+    min-height: 300px;
+  }
+
+  .map-visit-actions {
+    justify-content: stretch;
+  }
+
+  .map-visit-actions .btn,
+  .map-visit-actions .btn-line {
+    flex: 1 1 auto;
+    text-align: center;
+  }
+}
+
+/* ---------- Featured dish cards on tags/places pages ----------
+   The template shipped these cards with a heading and copy but no
+   image; the dish photo sits above the heading. ---------------- */
+
+.related-dish-card {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 1.5rem;
+  overflow: hidden;
+}
+
+.related-dish-card img {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 1.1rem;
+}
+
+.related-dish-card h3,
+.related-dish-card p {
+  padding-inline: 1.6rem;
+}
+
+.related-dish-card h3 {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+  color: var(--ink);
+}
+
+.related-dish-card p {
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}

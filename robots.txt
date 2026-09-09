@@ -1,0 +1,37 @@
+# Queen's Pizza & Wings Robots.txt
+# Main directives for all bots
+User-agent: *
+Allow: /
+Disallow: /llms.txt
+Disallow: /*?*author=*
+Disallow: /*?*tag=*
+Disallow: /*?*month=*
+Disallow: /*?*view=*
+Disallow: /*?*format=*
+
+# AI Bot specific directives
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: CCBot
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: FacebookBot
+User-agent: Claude-Web
+User-agent: cohere-ai
+Allow: /
+Disallow: /privacy-policy.html
+Disallow: /terms-of-use.html
+Disallow: /llms.txt
+
+# Google Ads Bot
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google-Mobile-Apps
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.queenspizzaandwings.ca/sitemap.xml
+
+# Crawl delay for heavy bots
+User-agent: Baiduspider
+Crawl-delay: 10
