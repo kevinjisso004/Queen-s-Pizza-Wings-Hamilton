@@ -54,7 +54,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 957,
                 "updated_by": 957,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270439,
@@ -106,7 +107,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 957,
                 "updated_by": 957,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 280628,
@@ -158,7 +160,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 957,
                 "updated_by": 957,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             }
         ],
         "available_items": [
@@ -222,7 +225,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             }
         ],
         "available_items": [
@@ -284,7 +288,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 861,
                 "updated_by": 861,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270442,
@@ -336,7 +341,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 861,
                 "updated_by": 861,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270443,
@@ -388,7 +394,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 861,
                 "updated_by": 861,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             }
         ],
         "available_items": [
@@ -452,7 +459,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270445,
@@ -504,7 +512,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270446,
@@ -556,7 +565,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             }
         ],
         "available_items": [
@@ -645,7 +655,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270742,
@@ -710,7 +721,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270741,
@@ -762,7 +774,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270740,
@@ -814,7 +827,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270739,
@@ -866,7 +880,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             }
         ],
         "available_items": [
@@ -932,7 +947,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270448,
@@ -984,7 +1000,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270449,
@@ -1036,7 +1053,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270450,
@@ -1088,7 +1106,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270451,
@@ -1140,7 +1159,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270452,
@@ -1192,7 +1212,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             }
         ],
         "available_items": [
@@ -1259,7 +1280,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270454,
@@ -1311,7 +1333,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             }
         ],
         "available_items": [
@@ -1374,7 +1397,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270456,
@@ -1457,7 +1481,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 861,
                 "updated_by": 861,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             }
         ],
         "available_items": [
@@ -1520,7 +1545,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270458,
@@ -1572,7 +1598,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270459,
@@ -1624,7 +1651,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270460,
@@ -1676,7 +1704,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270461,
@@ -1728,7 +1757,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270462,
@@ -1793,7 +1823,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 861,
                 "updated_by": 861,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270463,
@@ -1858,7 +1889,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 861,
                 "updated_by": 861,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270464,
@@ -1923,7 +1955,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 861,
                 "updated_by": 861,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270465,
@@ -1975,7 +2008,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270466,
@@ -2027,7 +2061,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270467,
@@ -2079,7 +2114,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270468,
@@ -2131,7 +2167,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270469,
@@ -2183,7 +2220,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270470,
@@ -2235,7 +2273,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270471,
@@ -2287,7 +2326,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270472,
@@ -2339,7 +2379,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270473,
@@ -2391,7 +2432,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270474,
@@ -2443,7 +2485,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270475,
@@ -2495,7 +2538,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270476,
@@ -2547,7 +2591,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270477,
@@ -2599,7 +2644,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             }
         ],
         "available_items": [
@@ -2681,7 +2727,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270479,
@@ -2733,7 +2780,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270480,
@@ -2785,7 +2833,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270481,
@@ -2837,7 +2886,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270482,
@@ -2889,7 +2939,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270483,
@@ -2941,7 +2992,8 @@ const data = [
                 "owner": 1421,
                 "created_by": null,
                 "updated_by": null,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             }
         ],
         "available_items": [
@@ -3008,7 +3060,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270485,
@@ -3060,7 +3113,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270486,
@@ -3112,7 +3166,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270487,
@@ -3164,7 +3219,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270488,
@@ -3216,7 +3272,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270489,
@@ -3268,7 +3325,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270490,
@@ -3320,7 +3378,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270491,
@@ -3372,7 +3431,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270492,
@@ -3424,7 +3484,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270493,
@@ -3476,7 +3537,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270494,
@@ -3528,7 +3590,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270496,
@@ -3580,7 +3643,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             },
             {
                 "id": 270497,
@@ -3632,7 +3696,8 @@ const data = [
                 "owner": 1421,
                 "created_by": 1465,
                 "updated_by": 1465,
-                "tagged_categories": []
+                "tagged_categories": [],
+                "is_dish_rewards_enabled": false
             }
         ],
         "available_items": [
